@@ -1,0 +1,4 @@
+Main-Class: Main
+Premain-Class: SBAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true

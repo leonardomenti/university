@@ -1,0 +1,12 @@
+{
+  "type": "MyClass",
+  "attrs": {
+    "a": 1,
+    "b": 2,
+    "c": 3
+  },
+  "methods": {
+    "print": "a=1, b=2, c=3",
+    "second": 3
+  }
+}

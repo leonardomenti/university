@@ -1,0 +1,4 @@
+Main-Class: DynamicCache
+Premain-Class: MyAgent
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true

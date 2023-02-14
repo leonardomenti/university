@@ -1,0 +1,4 @@
+Main-Class: MyMain
+Premain-Class: PreMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true

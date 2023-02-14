@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBAgent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SBAgent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dslplatform.dsl.json.java8" type="repository">
+    <properties maven-id="com.dslplatform:dsl-json-java8:1.9.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dslplatform/dsl-json-java8/1.9.9/dsl-json-java8-1.9.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/dslplatform/dsl-json/1.9.9/dsl-json-1.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
