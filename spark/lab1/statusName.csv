@@ -1,0 +1,119 @@
+StatusID,StatusName,StatusType,Timestamp
+14,14-MancanzaMaterDaFornit,1,2019-01-14T22:58:31.579Z
+21,21-Guasto Etic/LaserMark,1,2019-01-14T22:58:32.032Z
+23,23-GuastoAOIpostserigr3D,1,2019-01-14T22:58:32.032Z
+24,24-GuastoMac.Mont.Comp.1,1,2019-01-14T22:58:32.032Z
+25,25-GuastoMac.Mont.Comp.2,1,2019-01-14T22:58:32.032Z
+26,26-GuastoMontaggioAutom.,1,2019-01-14T22:58:32.032Z
+27,27-Guasto Montaggio Man.,1,2019-01-14T22:58:32.032Z
+28,28-GuastoMac.Mont.Comp.3,1,2019-01-14T22:58:32.032Z
+29,29-GuastoMac.Mont.Comp.4,1,2019-01-14T22:58:32.032Z
+31,31-GuastoAOIpostRef2D/3D,1,2019-01-14T22:58:32.032Z
+35,35-ICT in line          ,1,2019-01-14T22:58:32.032Z
+42,42-Guasto X-Ray         ,1,2019-01-14T22:58:32.032Z
+0,Scheda Finita           ,0,2018-03-27T12:03:40.405Z
+1,Lavorazione             ,0,2018-03-27T12:03:41.025Z
+2,Macchina Accesa         ,0,2018-03-27T12:03:41.025Z
+3,Ferma per Errore        ,0,2018-03-27T12:03:41.025Z
+4,ChangeStop              ,0,2018-03-27T12:03:41.025Z
+5,Attesa Start            ,0,2018-03-27T12:03:41.025Z
+6,Attesa Reset            ,0,2018-03-27T12:03:41.025Z
+7,Carico Scheda           ,0,2018-03-27T12:03:41.025Z
+8,Attesa Componente       ,0,2018-03-27T12:03:41.025Z
+9,Attesa Scheda           ,0,2018-03-27T12:03:41.025Z
+10,Attesa Scarico Scheda   ,0,2018-03-27T12:03:41.026Z
+11,Macchina Spenta         ,0,2018-03-27T12:03:41.026Z
+12,FirstUserStat           ,0,2018-03-27T12:03:41.026Z
+13,13 - Manuten Ordinaria  ,1,2018-03-27T12:03:41.026Z
+14,14-Manc Mat Diret a Mag ,1,2018-03-27T12:03:41.026Z
+15,15-Assenza tempor cond  ,1,2018-03-27T12:03:41.026Z
+16,24-GuastoMac.Mont.Comp.1,1,2018-03-27T12:03:41.026Z
+17,17-Mensa                ,1,2018-03-27T12:03:41.026Z
+18,18-Mac Ferma Manc Energ ,1,2018-03-27T12:03:41.026Z
+19,19-Addestram/formazione ,1,2018-03-27T12:03:41.026Z
+20,"20-Guasto C/S rack,Sfogl",1,2018-03-27T12:03:41.026Z
+21,21-Guasto Etichettatrice,1,2018-03-27T12:03:41.026Z
+22,22-Guasto Serigrafo     ,1,2018-03-27T12:03:41.026Z
+23,23-Guasto AOI Postserigr,1,2018-03-27T12:03:41.026Z
+24,24-Guasto Chip shooter 1,1,2018-03-27T12:03:41.026Z
+25,25-Guasto Chip shooter 2,1,2018-03-27T12:03:41.026Z
+26,26-Guasto Rob(mont)P.Col,1,2018-03-27T12:03:41.026Z
+27,27-Guasto Maflex mont.ma,1,2018-03-27T12:03:41.026Z
+28,28-Guasto Pick & Place 1,1,2018-03-27T12:03:41.027Z
+29,29-Guasto Pick & Place 2,1,2018-03-27T12:03:41.027Z
+30,30-Guasto Forno         ,1,2018-03-27T12:03:41.027Z
+31,31-Guasto AOI PostReflow,1,2018-03-27T12:03:41.027Z
+32,32-Guasto Sfridatur aut ,1,2018-03-27T12:03:41.027Z
+33,33-Guasti Vari          ,1,2018-03-27T12:03:41.027Z
+34,34-Malfunzionam feeders ,1,2018-03-27T12:03:41.027Z
+35,35-ICT on line          ,1,2018-03-27T12:03:41.027Z
+36,36-Guasto TraceXpert    ,1,2018-03-27T12:03:41.027Z
+37,37-Att.Int. Enti Supp   ,1,2018-03-27T12:03:41.027Z
+38,38-Attività di AM       ,1,2018-03-27T12:03:41.027Z
+39,39-Setup(mes P proc/prod,1,2018-03-27T12:03:41.027Z
+40,40-Cambio Utensil NOcons,1,2018-03-27T12:03:41.027Z
+41,41-Avvio spegn. impianto,1,2018-03-27T12:03:41.027Z
+42,42-Guasto OBP           ,1,2018-03-27T12:03:41.027Z
+43,43-MICROFERMATE         ,1,2018-03-27T12:03:41.027Z
+44,44-Pulizie tecniche stra,1,2018-03-27T12:03:41.027Z
+45,45-Difet qualità MatPrim,1,2018-03-27T12:03:41.027Z
+46,46-Manc mat diret da mag,1,2018-03-27T12:03:41.028Z
+47,47-Mancanza utensile    ,1,2018-03-27T12:03:41.028Z
+48,48-Prove tecni enti supp,1,2018-03-27T12:03:41.028Z
+49,49-Prove tecnic Manutenz,1,2018-03-27T12:03:41.028Z
+50,50-Rallentamenti tecnici,1,2018-03-27T12:03:41.028Z
+51,51-Controllo scarto AOI ,1,2018-03-27T12:03:41.028Z
+52,Attesa Reset,1,2018-03-27T12:03:41.028Z
+0,Scheda Finita           ,0,2018-02-21T18:42:03.792Z
+1,Lavorazione             ,0,2018-02-21T18:42:03.681Z
+2,Macchina Accesa         ,0,2018-02-21T18:42:03.681Z
+3,Ferma per Errore        ,0,2018-02-21T18:42:03.681Z
+4,ChangeStop              ,0,2018-02-21T18:42:03.681Z
+5,Attesa Start            ,0,2018-02-21T18:42:03.681Z
+6,Attesa Reset            ,0,2018-02-21T18:42:03.681Z
+7,Carico Scheda           ,0,2018-02-21T18:42:03.681Z
+8,Attesa Componente       ,0,2018-02-21T18:42:03.682Z
+9,Attesa Scheda           ,0,2018-02-21T18:42:03.682Z
+10,Attesa Scarico Scheda   ,0,2018-02-21T18:42:03.682Z
+11,Macchina Spenta         ,0,2018-02-21T18:42:03.682Z
+12,FirstUserStat           ,0,2018-02-21T18:42:03.682Z
+13,13 - Manuten Ordinaria  ,1,2018-02-21T18:42:03.682Z
+14,14-Manc Mat Diret a Mag ,1,2018-02-21T18:42:03.682Z
+15,15-Assenza tempor cond  ,1,2018-02-21T18:42:03.682Z
+16,Attesa Scheda,1,2018-02-21T18:42:03.682Z
+17,17-Mensa                ,1,2018-02-21T18:42:03.682Z
+18,18-Mac Ferma Manc Energ ,1,2018-02-21T18:42:03.682Z
+19,19-Addestram/formazione ,1,2018-02-21T18:42:03.682Z
+20,"20-Guasto C/S rack,Sfogl",1,2018-02-21T18:42:03.682Z
+21,21-Guasto Etichettatrice,1,2018-02-21T18:42:03.682Z
+22,22-Guasto Serigrafo     ,1,2018-02-21T18:42:03.682Z
+23,23-Guasto AOI Postserigr,1,2018-02-21T18:42:03.682Z
+24,24-Guasto Chip shooter 1,1,2018-02-21T18:42:03.682Z
+25,25-Guasto Chip shooter 2,1,2018-02-21T18:42:03.682Z
+26,26-Guasto Rob(mont)P.Col,1,2018-02-21T18:42:03.682Z
+27,27-Guasto Maflex mont.ma,1,2018-02-21T18:42:03.682Z
+28,28-Guasto Pick & Place 1,1,2018-02-21T18:42:03.682Z
+29,29-Guasto Pick & Place 2,1,2018-02-21T18:42:03.682Z
+30,30-Guasto Forno         ,1,2018-02-21T18:42:03.682Z
+31,31-Guasto AOI PostReflow,1,2018-02-21T18:42:03.682Z
+32,32-Guasto Sfridatur aut ,1,2018-02-21T18:42:03.682Z
+33,33-Guasti Vari          ,1,2018-02-21T18:42:03.682Z
+34,34-Malfunzionam feeders ,1,2018-02-21T18:42:03.682Z
+35,35-ICT on line          ,1,2018-02-21T18:42:03.683Z
+36,36-Guasto TraceXpert    ,1,2018-02-21T18:42:03.683Z
+37,37-Att.Int. Enti Supp   ,1,2018-02-21T18:42:03.683Z
+38,38-Attività di AM       ,1,2018-02-21T18:42:03.683Z
+39,39-Setup(mes P proc/prod,1,2018-02-21T18:42:03.683Z
+40,40-Cambio Utensil NOcons,1,2018-02-21T18:42:03.683Z
+41,41-Avvio spegn. impianto,1,2018-02-21T18:42:03.683Z
+42,42-Guasto OBP           ,1,2018-02-21T18:42:03.683Z
+43,43-MICROFERMATE         ,1,2018-02-21T18:42:03.683Z
+44,44-Pulizie tecniche stra,1,2018-02-21T18:42:03.683Z
+45,45-Difet qualità MatPrim,1,2018-02-21T18:42:03.683Z
+46,46-Manc mat diret da mag,1,2018-02-21T18:42:03.683Z
+47,47-Mancanza utensile    ,1,2018-02-21T18:42:03.683Z
+48,48-Prove tecni enti supp,1,2018-02-21T18:42:03.683Z
+49,49-Prove tecnic Manutenz,1,2018-02-21T18:42:03.683Z
+50,50-Rallentamenti tecnici,1,2018-02-21T18:42:03.683Z
+51,51-Controllo scarto AOI ,1,2018-02-21T18:42:03.683Z
+52,17-Mensa,1,2018-02-21T18:42:03.683Z
